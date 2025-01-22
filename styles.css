@@ -24,7 +24,7 @@ body {
     justify-content: center;
     align-items: center;
     background-color: hsl(30, 38%, 92%);
-    padding: 40px;
+    padding: 200px;
 }
 
 main {
@@ -80,6 +80,7 @@ p.left {
     font-family: "Fraunces", sans-serif;
     color: hsl(158, 38%, 37%);
     margin-right: 15px;
+    font-weight: bold;
 }
 
 p.right {
